@@ -1,2 +1,2 @@
-#SMPP
+# SMPP Protocol
    
