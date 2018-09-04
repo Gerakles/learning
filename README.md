@@ -17,3 +17,4 @@
 SMSC
 MSC
 GSM
+IVR
