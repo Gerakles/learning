@@ -6,3 +6,4 @@
         and may then send short messages and receive short messages to and from
         the SMSC respectively. The ESME may also query, cancel or replace short
         messages using SMPP.
+# USSD
