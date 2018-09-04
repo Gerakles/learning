@@ -7,8 +7,9 @@
         the SMSC respectively. The ESME may also query, cancel or replace short
         messages using SMPP.
         
-   ### date 04.09.2018
+   ### date:
+          04.09.2018
 # USSD
    ## defines:
        
-   ###
+   ### date:
