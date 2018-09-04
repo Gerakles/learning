@@ -7,3 +7,5 @@
         the SMSC respectively. The ESME may also query, cancel or replace short
         messages using SMPP.
 # USSD
+   ## defines:
+       
